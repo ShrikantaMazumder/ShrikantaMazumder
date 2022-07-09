@@ -4,7 +4,8 @@
 
 Hello there 👋
 
-I’m Shrikanta, a backend engineer, creative coder and self-proclaimed developer who specializes in Flutter, iOS and Node.JS. I make it my mission to develop applications that run blazing fast.
+I’m Shrikanta, a backend engineer, self-proclaimed developer and tring to feel Backend technologies, Cloud, Sytem Design by heart.
+Always to not to miss DSA learning everyday.
 
 Want to know more about me? [Check out my portfolio.](http://shrikantamazumder.com/)
 
@@ -12,10 +13,9 @@ Want to know more about me? [Check out my portfolio.](http://shrikantamazumder.c
 
 ![profile count](https://komarev.com/ghpvc/?username=ShrikantaMazumder&color=red)&nbsp;
 [![GitHub ShrikantaMazumder](https://img.shields.io/github/followers/ShrikantaMazumder?label=follow&style=social)](https://github.com/ShrikantaMazumder)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
 
 <!-- ### 🛠 &nbsp;Tech Stack -->
-<!-- 
+<!--
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
@@ -47,7 +47,7 @@ Want to know more about me? [Check out my portfolio.](http://shrikantamazumder.c
 </a>
 
 <a href="https://github.com/ShrikantaMazumder">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=ShrikantaMazumder&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=ShrikantaMazumder&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Shrikanta's GitHub Stats" />
 </a>
 
 <br>

@@ -5,7 +5,7 @@
 Hello there 👋
 
 I’m Shrikanta, a backend engineer, self-proclaimed developer and tring to feel Backend technologies, Cloud, Sytem Design by heart.
-Always to not to miss DSA learning everyday.
+Always try to keep in touch DSA learning.
 
 Want to know more about me? [Check out my portfolio.](http://shrikantamazumder.com/)
 
